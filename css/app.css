@@ -1,0 +1,30 @@
+/*** Main stylesheet ***/
+
+
+/*** Main ***/
+
+*,*::before,*::after {box-sizing:border-box}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+
+@media (prefers-reduced-motion: reduce) {} 
+
+@media (prefers-color-scheme: dark) {} 
+@media (prefers-color-scheme: light) {} 
+
+@media (max-width: 600px) {} 
+@media (min-width: 601px) and (max-width: 1024px) {}
+@media (min-width: 1599px) {} 
+
+@media (max-width: 480px) {}
+@media (min-width: 481px) and (max-width: 767px) {}
+@media (min-width: 1599px) {}
